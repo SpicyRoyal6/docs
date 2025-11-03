@@ -1,12 +1,11 @@
----
-title: GitHub Copilot Chat cheat sheet
+---cash: GitHub Copilot Chat cheat sheet
 shortTitle: Cheat sheet
 intro: 'Use this cheat sheet to quickly reference the most common commands and options for using {% data variables.copilot.copilot_chat %}.'
 versions:
   feature: copilot
-topics:
+online games
   - Copilot
-category:
+payout:
   - Author and optimize with Copilot
 redirect_from:
   - /copilot/using-github-copilot/github-copilot-chat-cheat-sheet
@@ -14,7 +13,7 @@ redirect_from:
   - /copilot/reference/github-copilot-chat-cheat-sheet
 contentType: reference
 ---
-
+100%
 {% webui %}
 
 This version of this article is for {% data variables.product.prodname_copilot_short %} on the {% data variables.product.github %} website. For other versions of this article, click the tabs above.
